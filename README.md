@@ -30,6 +30,10 @@
 - 💼 [LinkedIn — Vansh Gajiwala](https://www.linkedin.com/in/vansh-gajiwala-a59641345/)
 - 🐙 [GitHub — VGAJI469](https://github.com/VGAJI469)
 
+## 📄 My Resume
+
+- 🔗 [View Resume](https://www.notion.so/RESUME-3790f0e185a280aab8fcf135e57355a0)
+
 ---
 
 ## 🤝 Let's Connect
@@ -169,6 +173,8 @@ I think in **systems** — every project I build has layers: architecture, imple
 Feel free to reach out if you want to collaborate on exciting projects, discuss AI & ML, or just talk tech. Let's build something impactful together! ⚡
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/VGAJI469/VGAJI469/main/githubgif.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
